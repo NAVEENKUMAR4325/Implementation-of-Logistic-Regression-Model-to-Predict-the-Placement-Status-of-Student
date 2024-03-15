@@ -22,8 +22,8 @@ modules from sklearn.
 ```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: SHAKTHI SUNDAR K
-RegisterNumber:  212222040152
+Developed by: Naveen Kumar E
+RegisterNumber:  21222222029
 */
 
 import pandas as pd
